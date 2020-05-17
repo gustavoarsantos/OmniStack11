@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, useHistory } from 'react-router-dom';
 
 import './styles.css';
-import { FiLogIn } from 'react-icons/fi';
+import { FiLogIn } from 'react-icons/fi'
 import heroesImg from '../../assets/heroes.png';
 import logoImg from '../../assets/logo.svg';
 
